@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Better Google Translate
 // @namespace    http://legendword.com/
-// @version      0.1
+// @updateURL    https://github.com/legendword/Better-Google-Translate/raw/master/Better%20Google%20Translate.user.js
+// @version      0.2
 // @description  Provides an overall better Google Translate experience.
 // @author       You
 // @match        https://translate.google.com/*
